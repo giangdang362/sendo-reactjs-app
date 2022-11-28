@@ -16,6 +16,7 @@ const MainProduct = (props) => {
   const { products, setProducts } = props;
 
   const [productsSnapshot, setProductsSnapshot] = useState([]);
+  
   const [filterFields, setFilterFields] = useState(initFilterFields);
   console.log(productsSnapshot)
   // Khi render UI lan dau tien: useEffect se chay 1 lan : productsSnapshot se duoc dai gia tri tu 
