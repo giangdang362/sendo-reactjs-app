@@ -1,0 +1,37 @@
+.list-option {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+.option-item {
+    position: relative;
+    top: 8px;
+    left: 22px;
+}
+.show-color-name {
+    position: absolute;
+    color: #fff;
+    background-color: rgba(50, 50, 50, 0.6)
+}
+.list-option li {
+    display: flex;
+    font-size: 14px;
+    color: #3f4b53;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.list-option li:hover {
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+}
+.list-option input {
+    margin-right: 14px;
+}
+.color-option {
+    width: 120px;
+    height: 22px;
+    border-radius: 3px;
+    border: 1px solid #cfd2d4 ;
+}

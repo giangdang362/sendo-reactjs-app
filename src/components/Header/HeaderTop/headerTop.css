@@ -1,0 +1,70 @@
+.listHeaderTop {
+    
+    padding: 0 24px;
+    color: #fff;
+    background-color: #D52220;
+    width: 100%;
+}
+.listHeaderTop ul {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    height: 40px;
+}
+.listHeaderTop li {
+    font-size: 12px;
+    margin-left: 24px;
+    list-style: none;
+    font-weight: 500;
+    cursor: pointer;
+}
+#downloadApp {
+    position: relative;
+}
+#careCustomer {
+    position: relative;
+}
+#codeOrder {
+    position: relative;
+}
+
+.dropTop {
+    z-index: 1;
+    position: absolute;
+    left: 0;
+    top: 28px;
+    border-radius: 5px;
+    color: rgb(65, 73, 83);
+    background-color: #fff;
+    font-weight: 500;
+    padding: 8px;
+    box-shadow: 5px 5px 10px #888888;
+}
+.dropTop p {
+    width: 120px;
+}
+.inputCheck {
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+}
+.inputCheck:hover {
+    border: 1px solid rgb(88, 105, 201);
+}
+.buttonCheck {
+    margin-top: 2px;
+    padding: 8px;
+    font-weight: 500;
+    flex-grow: 1;
+    width: 100%;
+    border-radius: 3px;
+    border: 1px;
+    color: #fff;
+    background-color: #ee2624;
+}
+.buttonCheck:hover {
+    cursor: pointer;
+    background-color: #f1514f;
+}

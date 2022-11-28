@@ -1,0 +1,22 @@
+.list-type {
+    display: flex;
+    margin: 0 10px 12px 0;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: 500;
+}
+hr {
+    opacity: 0.6;
+}
+.list-type:hover {
+    cursor: pointer;
+}
+
+.dropdown-icon {
+    flex: 1;
+    font-size: 12px;
+    justify-content: flex-end;
+    display: flex;
+    
+}
+

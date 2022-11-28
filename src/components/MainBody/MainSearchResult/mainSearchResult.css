@@ -1,0 +1,16 @@
+.search-result {
+    display: flex;
+    line-height: 2.2rem;
+    width: 80%;
+    margin:0 auto;
+    margin-bottom: 10px;
+}
+.keyword {
+    font-size: 20px;
+    color: #0f1e29;
+    margin-right: 20px;
+    font-weight: 600;
+}
+.search-result span {
+    color: #333;
+}

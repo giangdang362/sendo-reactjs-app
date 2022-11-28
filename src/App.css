@@ -1,0 +1,40 @@
+html {
+  font-family: 'Times New Roman', Times, serif;
+}
+/* a {
+  color: #3f4b53;
+} */
+
+.App-header {
+  width: 100%;
+  background-color: red;
+  /* position: fixed;
+  z-index: 1; */
+}
+
+/* Body */
+#body {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+#menu-option {
+  margin: 0 auto;
+  width: 14%;
+}
+#main-result {
+  width:86%;
+}
+
+#product-filter {
+  width: 100%;
+  margin-bottom: 16px;
+}
+#list-result {
+  height: 100%;
+  width: 100%;
+}
+.footer {
+  width: 80%;
+  margin: 0 auto;
+}

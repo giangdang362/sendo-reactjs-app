@@ -1,0 +1,3356 @@
+{
+    "products":[
+    {
+        "id": 19041811,
+        "name": "Đồng hồ nam dây thép lưới Minimalist Crnaira chính hãng thời trang cao cấp full box",
+        "category_path": "dong-ho-nam-day-thep-luoi-minimalist-crnaira-chinh-hang-thoi-trang-cao-cap-full-box-19041811.html",
+        "image": "https://media3.scdn.vn/img3/2019/6_7/epQmlw_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 342000,
+        "default_price_max": 342000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sale_percent": 42,
+        "sold": null,
+        "has_video": true,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam CR902",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 45,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19673420,
+        "name": "Đồng hồ nam thời trang dây thép Tisselly chính hãng có 2 lịch full box",
+        "category_path": "dong-ho-nam-thoi-trang-day-thep-tisselly-chinh-hang-co-2-lich-full-box-19673420.html",
+        "image": "https://media3.scdn.vn/img3/2019/7_5/wE6eNp_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 489000,
+        "default_price_max": 489000,
+        "sale_price_min": 279000,
+        "sale_price_max": 279000,
+        "sale_percent": 43,
+        "sold": 0,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam Ts101",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 44,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 22982079,
+        "name": "Đồng hồ nam Casio AE-1200WHD-1AVDF - Pin 10 năm",
+        "category_path": "dong-ho-nam-casio-ae-1200whd-1avdf-pin-10-nam-22982079.html",
+        "image": "https://media3.scdn.vn/img3/2019/10_24/pSqgqO_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 1246000,
+        "default_price_max": 1246000,
+        "sale_price_min": 1121500,
+        "sale_price_max": 1121500,
+        "sale_percent": 10,
+        "sold": 15,
+        "seller_admin_id": 600516,
+        "sku_user": "Đồng hồ nam",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 600516,
+            "name": "Casio Longtime",
+            "status": 2,
+            "type": 2,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {
+                "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+            }
+        },
+        "rated": {
+            "total": 2,
+            "star": 5
+        },
+        "options": {}
+    },
+    {
+        "id": 21386495,
+        "name": "Đồng Hồ Nam Sanda Kim Điện Tử Thể Thao Phong Cách Cá Tính Fullbox",
+        "category_path": "dong-ho-nam-sanda-kim-dien-tu-the-thao-phong-cach-ca-tinh-fullbox-21386495.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_3/zuLiaa_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 615000,
+        "default_price_max": 615000,
+        "sale_price_min": 339000,
+        "sale_price_max": 339000,
+        "sale_percent": 45,
+        "sold": 44,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam đồng hồ nam S601",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21065144,
+        "name": "Đồng Hồ Nam Thể Thao Dây Cao Su Pin Trâu Bền Bỉ",
+        "category_path": "dong-ho-nam-the-thao-day-cao-su-pin-trau-ben-bi-21065144.html",
+        "image": "https://media3.scdn.vn/img4/2022/09_29/6xwybRAL1qvDBPHjxwi5_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 500000,
+        "default_price_max": 500000,
+        "sale_price_min": 209000,
+        "sale_price_max": 209000,
+        "sale_percent": 59,
+        "sold": 32,
+        "seller_admin_id": 640488,
+        "sku_user": "ĐỒNG HỒ NAM 1509",
+        "product_type": 23,
+        "active_event_frame": "sale_event",
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 640488,
+            "name": "LỘC PHÁT789",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "type": 1,
+            "ware_house_region_name": "Hồ Chí Minh",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 12,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "sale_event",
+                "icon": "https://media3.scdn.vn/img4/2022/08_15/SacnYLrs5fJq5c6Njzf8.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 13041845,
+        "name": "Đồng Hồ Nam Dây Da Có Lịch Ngày Và Thứ Crnaira Thanh Lịch Thời Cao Cấp Trang Full Box",
+        "category_path": "dong-ho-nam-day-da-co-lich-ngay-va-thu-crnaira-thanh-lich-thoi-cao-cap-trang-full-box-13041845.html",
+        "image": "https://media3.scdn.vn/img2/2018/11_22/9r0qiD_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 433000,
+        "default_price_max": 433000,
+        "sale_price_min": 259000,
+        "sale_price_max": 259000,
+        "sale_percent": 41,
+        "sold": 169,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam đồng hồ nam 31",
+        "product_type": 23,
+        "like_counter": 6,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 26,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 18738150,
+        "name": "Đồng hồ nam",
+        "category_path": "dong-ho-nam-18738150.html",
+        "image": "https://media3.scdn.vn/img3/2019/5_23/gsJtW3_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 479000,
+        "default_price_max": 479000,
+        "sale_price_min": 269000,
+        "sale_price_max": 269000,
+        "sale_percent": 44,
+        "sold": 67,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam c010",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 10,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 11941712,
+        "name": "Đồng hồ nam kim dây thép Crnaira thời trang cao cấp chính hãng có 2 lịch full box",
+        "category_path": "dong-ho-nam-kim-day-thep-crnaira-thoi-trang-cao-cap-chinh-hang-co-2-lich-full-box-11941712.html",
+        "image": "https://media3.scdn.vn/img2/2018/9_27/sM1Yr1_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 506000,
+        "default_price_max": 506000,
+        "sale_price_min": 279000,
+        "sale_price_max": 279000,
+        "sale_percent": 45,
+        "sold": 408,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam đồng đồng hồ nam",
+        "product_type": 23,
+        "like_counter": 35,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 53,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 11942456,
+        "name": "Đồng hồ nam dep",
+        "category_path": "dong-ho-nam-dep-11942456.html",
+        "image": "https://media3.scdn.vn/img2/2018/9_27/GI5omJ_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 437000,
+        "default_price_max": 437000,
+        "sale_price_min": 249000,
+        "sale_price_max": 249000,
+        "sale_percent": 44,
+        "sold": 184,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam 50",
+        "product_type": 23,
+        "like_counter": 15,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 37,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 10276144,
+        "name": "Đồng hồ nam cao cấp chính hãng ROSRA SMM98",
+        "category_path": "dong-ho-nam-cao-cap-chinh-hang-rosra-smm98-10276144.html",
+        "image": "https://media3.scdn.vn/img2/2018/6_21/DtfQdw_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 680000,
+        "default_price_max": 680000,
+        "sale_price_min": 89000,
+        "sale_price_max": 89000,
+        "sale_percent": 87,
+        "sold": 6221,
+        "discount_app": 3,
+        "seller_admin_id": 233685,
+        "sku_user": "SMM98",
+        "product_type": 23,
+        "like_counter": 645,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 233685,
+            "name": "shop phụ kiện MyMy",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "ware_house_region_name": "Hồ Chí Minh",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 1142,
+            "star": 4.1
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 11944571,
+        "name": "Đồng hồ nam dây thép lụa đính đá Crnaira thời thượng cao cấp có 2 lịch full box",
+        "category_path": "dong-ho-nam-day-thep-lua-dinh-da-crnaira-thoi-thuong-cao-cap-co-2-lich-full-box-11944571.html",
+        "image": "https://media3.scdn.vn/img2/2018/9_27/ouYZmY_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 454000,
+        "default_price_max": 454000,
+        "sale_price_min": 259000,
+        "sale_price_max": 259000,
+        "sale_percent": 43,
+        "sold": 293,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam CR02",
+        "product_type": 23,
+        "like_counter": 25,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 47,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21815022,
+        "name": "ĐỒNG HỒ NAM CHÍNH HÃNG WWOOR",
+        "category_path": "dong-ho-nam-chinh-hang-wwoor-21815022.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_18/TGT0ky_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 509000,
+        "default_price_max": 509000,
+        "sale_price_min": 300000,
+        "sale_price_max": 300000,
+        "sale_percent": 42,
+        "sold": 38,
+        "seller_admin_id": 662936,
+        "sku_user": "ĐỒNG HỒ NAM 8829",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 662936,
+            "name": "NHẤT NHẤT SHOP 89",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hồ Chí Minh",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 5,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 23826010,
+        "name": "Đồng hồ nam",
+        "category_path": "dong-ho-nam-23826010.html",
+        "image": "https://media3.scdn.vn/img3/2019/11_21/FkXFbG_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 200000,
+        "default_price_max": 200000,
+        "sale_price_min": 99000,
+        "sale_price_max": 99000,
+        "sale_percent": 51,
+        "sold": 248,
+        "has_video": true,
+        "seller_admin_id": 486951,
+        "sku_user": "Đồng hồ nam FOURRON máy Quartz Nhật Bản",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 486951,
+            "name": "Vegeta",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 73,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 27740514,
+        "name": "Đồng hồ nam NIBOSI chính hãng NI2362 03",
+        "category_path": "dong-ho-nam-nibosi-chinh-hang-ni2362-03-27740514.html",
+        "image": "https://media3.scdn.vn/img4/2020/10_28/yLPlBd8FkWhXA5Sb0LAw_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 559000,
+        "default_price_max": 559000,
+        "sale_price_min": 359000,
+        "sale_price_max": 359000,
+        "sale_percent": 36,
+        "sold": 32,
+        "has_video": true,
+        "seller_admin_id": 646759,
+        "sku_user": "Đồng hồ nam NI2362 03",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 646759,
+            "name": "Royal Time",
+            "status": 2,
+            "type": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+            }
+        },
+        "rated": {
+            "total": 15,
+            "star": 4.9
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21407607,
+        "name": "Đồng hồ nam Winner3- cơ lộ máy dây thép không gỉ",
+        "category_path": "dong-ho-nam-winner3-co-lo-may-day-thep-khong-gi-21407607.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_4/Ww8q0h_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 995000,
+        "default_price_max": 995000,
+        "sale_price_min": 389000,
+        "sale_price_max": 389000,
+        "sale_percent": 61,
+        "sold": 139,
+        "seller_admin_id": 474147,
+        "sku_user": "Đồng hồ nam Winner-M03",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 474147,
+            "name": "Hoàng Diệp 05102017",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 47,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 13887571,
+        "name": "Đồng hồ nam Olmeca9 dây thép không gỉ 6 kim Fullbox",
+        "category_path": "dong-ho-nam-olmeca9-day-thep-khong-gi-6-kim-fullbox-13887571.html",
+        "image": "https://media3.scdn.vn/img3/2019/1_5/BDo6GR_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 791000,
+        "default_price_max": 791000,
+        "sale_price_min": 459000,
+        "sale_price_max": 459000,
+        "sale_percent": 42,
+        "sold": 51,
+        "has_video": true,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam olm901",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19110494,
+        "name": "Đồng Hồ Nam FNGEEN Mặt Rồng Nổi 3D Sang Trọng",
+        "category_path": "dong-ho-nam-fngeen-mat-rong-noi-3d-sang-trong-19110494.html",
+        "image": "https://media3.scdn.vn/img4/2020/10_19/g5TFQ2wuy6vFIIU2SPQg_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 499000,
+        "default_price_max": 499000,
+        "sale_price_min": 499000,
+        "sale_price_max": 499000,
+        "sold": 219,
+        "seller_admin_id": 486951,
+        "sku_user": "đồng hồ FNGEEN",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 486951,
+            "name": "Vegeta",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 59,
+            "star": 4.4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19680735,
+        "name": "Đồng Hồ Nam Dây Thép Đúc Đặc Crnaira Cao Cấp Chính Hãng Full Box",
+        "category_path": "dong-ho-nam-day-thep-duc-dac-crnaira-cao-cap-chinh-hang-full-box-19680735.html",
+        "image": "https://media3.scdn.vn/img3/2019/7_5/4lKfiw_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 515000,
+        "default_price_max": 515000,
+        "sale_price_min": 299000,
+        "sale_price_max": 299000,
+        "sale_percent": 42,
+        "sold": 111,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam d7",
+        "product_type": 23,
+        "like_counter": 5,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 20,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 9423797,
+        "name": "Đồng hồ nam dây silicon style unisex JB26",
+        "category_path": "dong-ho-nam-day-silicon-style-unisex-jb26-9423797.html",
+        "image": "https://media3.scdn.vn/img2/2018/4_19/CFZLno_simg_42585a_348-348-150-168_cropf_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 200000,
+        "default_price_max": 200000,
+        "sale_price_min": 200000,
+        "sale_price_max": 200000,
+        "sold": 107,
+        "has_video": true,
+        "seller_admin_id": 15721,
+        "sku_user": "JB26",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 15721,
+            "name": "ĐỒNG HỒ SỈ - LẺ",
+            "status": 2,
+            "ware_house_region_name": "Lào Cai",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 34,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16515769,
+        "name": "Đồng Hồ Nam Sunrise DM778SWA [ Chính Hãng Full Box ] Sapphire Chống Xước , Chống Nước - DM783SWA",
+        "category_path": "dong-ho-nam-sunrise-dm778swa-chinh-hang-full-box-sapphire-chong-xuoc-chong-nuoc-dm783swa-16515769.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_7/Kjrmyc_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 1048000,
+        "default_price_max": 1048000,
+        "sale_price_min": 674000,
+        "sale_price_max": 674000,
+        "sale_percent": 36,
+        "sold": 75,
+        "seller_admin_id": 529915,
+        "sku_user": "DM783SWA",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 529915,
+            "name": "Đồng Hồ Worldtime VN",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 33,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 20999695,
+        "name": "ĐỒNG HỒ NAM THỂ THAO",
+        "category_path": "dong-ho-nam-the-thao-20999695.html",
+        "image": "https://media3.scdn.vn/img4/2020/11_13/bzu4fLaZ61XCElkyZVaP_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 199000,
+        "default_price_max": 199000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sold": 51,
+        "seller_admin_id": 640604,
+        "sku_user": "ĐỒNG HỒ NAM 1436",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 640604,
+            "name": "THỜI TRANG MỚI 89",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lào Cai",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 13,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 31285010,
+        "name": "Đồng hồ nam",
+        "category_path": "dong-ho-nam-31285010.html",
+        "image": "https://media3.scdn.vn/img4/2020/07_04/KzB4aE4eb5ZhFAVkXfRi_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 249000,
+        "default_price_max": 249000,
+        "sale_price_min": 98000,
+        "sale_price_max": 98000,
+        "sale_percent": 61,
+        "sold": 193,
+        "seller_admin_id": 486951,
+        "sku_user": "Đồng hồ FNGEEN mặt rồng",
+        "product_type": 23,
+        "like_counter": 1,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 486951,
+            "name": "Vegeta",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 49,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16323743,
+        "name": "Đồng Hồ Nam Sunrise DM784SWA B [ Chính Hãng Full Box ] Kính Sapphire Chống Xước , Chống Nước",
+        "category_path": "dong-ho-nam-sunrise-dm784swa-b-chinh-hang-full-box-kinh-sapphire-chong-xuoc-chong-nuoc-16323743.html",
+        "image": "https://media3.scdn.vn/img3/2019/2_27/CfjqRh_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 1045000,
+        "default_price_max": 1045000,
+        "sale_price_min": 585000,
+        "sale_price_max": 585000,
+        "sale_percent": 45,
+        "sold": 24,
+        "seller_admin_id": 487154,
+        "sku_user": "DM782SWA",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 487154,
+            "name": "Đồng Hồ World Time",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 6,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16018624,
+        "name": "Đồng hồ nam cao cấp ECONOMICXI dây thép có lịch ngày, phong cách doanh nhân",
+        "category_path": "dong-ho-nam-cao-cap-economicxi-day-thep-co-lich-ngay-phong-cach-doanh-nhan-16018624.html",
+        "image": "https://media3.scdn.vn/img4/2022/04_26/WY7tEt6rCyCKqBEkWoLG_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 2000000,
+        "default_price_max": 2000000,
+        "sale_price_min": 99000,
+        "sale_price_max": 99000,
+        "sale_percent": 96,
+        "sold": 40,
+        "has_video": true,
+        "discount_app": 2,
+        "seller_admin_id": 113244,
+        "sku_user": "DIZIZI27",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 113244,
+            "name": "Volcano Shop",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 15,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 27970730,
+        "name": "Đồng hồ nam NIBOSI chính hãng NI2309 06",
+        "category_path": "dong-ho-nam-nibosi-chinh-hang-ni2309-06-27970730.html",
+        "image": "https://media3.scdn.vn/img4/2020/10_28/mCJa3GgAgzCIt7hFqiGv_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 559000,
+        "default_price_max": 559000,
+        "sale_price_min": 399000,
+        "sale_price_max": 399000,
+        "sale_percent": 29,
+        "sold": 8,
+        "has_video": true,
+        "seller_admin_id": 646759,
+        "sku_user": "Đồng hồ nam NI2309 06",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 646759,
+            "name": "Royal Time",
+            "status": 2,
+            "type": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+            }
+        },
+        "rated": {
+            "total": 3,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16432633,
+        "name": "Đồng hồ nam kính lồi 3D viền nhỏ thời trang - DOM fullbox - Mã số: DH1902",
+        "category_path": "dong-ho-nam-kinh-loi-3d-vien-nho-thoi-trang-dom-fullbox-ma-so-dh1902-16432633.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_3/gARv3a_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 425000,
+        "default_price_max": 425000,
+        "sale_price_min": 350000,
+        "sale_price_max": 350000,
+        "sale_percent": 18,
+        "sold": 6,
+        "seller_admin_id": 2689,
+        "sku_user": "Đồng hồ DH1902",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 2689,
+            "name": "2no shop",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "ware_house_region_name": "Đà Nẵng",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 2,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21000217,
+        "name": "ĐỒNG HỒ NAM",
+        "category_path": "dong-ho-nam-21000217.html",
+        "image": "https://media3.scdn.vn/img3/2019/8_23/BBtHRu_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 199000,
+        "default_price_max": 199000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sold": 15,
+        "seller_admin_id": 640604,
+        "sku_user": "ĐỒNG HỒ NAM 1027",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 640604,
+            "name": "THỜI TRANG MỚI 89",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lào Cai",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 27604151,
+        "name": "Đồng hồ nam NIBOSI chính hãng NI2339 03",
+        "category_path": "dong-ho-nam-nibosi-chinh-hang-ni2339-03-27604151.html",
+        "image": "https://media3.scdn.vn/img4/2020/03_19/Dwv5pWXekJ5izBH2znBP_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 559000,
+        "default_price_max": 559000,
+        "sale_price_min": 429000,
+        "sale_price_max": 429000,
+        "sale_percent": 24,
+        "sold": 13,
+        "has_video": true,
+        "seller_admin_id": 646759,
+        "sku_user": "Đồng hồ nam NI2339 03",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 646759,
+            "name": "Royal Time",
+            "status": 2,
+            "type": 2,
+            "ware_house_region_name": "Vĩnh Phúc",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+            }
+        },
+        "rated": {
+            "total": 3,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 33010226,
+        "name": "Đồng hồ Nam ROMATIC 1986 Máy GERMANY - Khóa Bướm + Dây Thép Đúc Đặc Cao Cấp",
+        "category_path": "dong-ho-nam-romatic-1986-may-germany-khoa-buom-day-thep-duc-dac-cao-cap-33010226.html",
+        "image": "https://media3.scdn.vn/img4/2020/08_31/TanTU7Q49AU0NcmPwwaS_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 250000,
+        "default_price_max": 250000,
+        "sale_price_min": 250000,
+        "sale_price_max": 250000,
+        "sold": 109,
+        "seller_admin_id": 596515,
+        "sku_user": "romatic_1986_xam",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 596515,
+            "name": "donghonhat",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lào Cai",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 31,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21820558,
+        "name": "Đồng hồ nam giá rẻ",
+        "category_path": "dong-ho-nam-gia-re-21820558.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_18/iYwwH2_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 179000,
+        "default_price_max": 179000,
+        "sale_price_min": 179000,
+        "sale_price_max": 179000,
+        "sold": 34,
+        "seller_admin_id": 480478,
+        "sku_user": "Đồng hồ nam giá rẻ_2118",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 480478,
+            "name": "THAI ANH MINH  SHOP",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "type": 1,
+            "ware_house_region_name": "Lào Cai",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 12278415,
+        "name": "Đồng hồ nam dây thép đúc đặc Crnaira có 2 lịch thời trang cao cấp full box",
+        "category_path": "dong-ho-nam-day-thep-duc-dac-crnaira-co-2-lich-thoi-trang-cao-cap-full-box-12278415.html",
+        "image": "https://media3.scdn.vn/img2/2018/10_15/GqxfVi_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 719000,
+        "default_price_max": 719000,
+        "sale_price_min": 399000,
+        "sale_price_max": 399000,
+        "sale_percent": 45,
+        "sold": 131,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam đồng hồ nam OS01",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 18,
+            "star": 4.4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16801651,
+        "name": "ĐỒNG HỒ NAM WWOOR 8028 THỜI TRANG CHÍNH HÃNG CÓ HỘP ĐẸP",
+        "category_path": "dong-ho-nam-wwoor-8028-thoi-trang-chinh-hang-co-hop-dep-16801651.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_19/SafnZk_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 650000,
+        "default_price_max": 650000,
+        "sale_price_min": 650000,
+        "sale_price_max": 650000,
+        "sold": 21,
+        "seller_admin_id": 535123,
+        "sku_user": "8028",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535123,
+            "name": "THỊ TRƯỜNG SĨ",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 6,
+            "star": 5
+        },
+        "options": {}
+    },
+    {
+        "id": 12688917,
+        "name": "Đồng hồ nam",
+        "category_path": "dong-ho-nam-12688917.html",
+        "image": "https://media3.scdn.vn/img2/2018/11_6/LAnwxz_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 468000,
+        "default_price_max": 468000,
+        "sale_price_min": 269000,
+        "sale_price_max": 269000,
+        "sale_percent": 43,
+        "sold": 96,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam đồng hồ nam J001",
+        "product_type": 23,
+        "like_counter": 10,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 16,
+            "star": 4.9
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 27969721,
+        "name": "Đồng hồ nam NIBOSI chính hãng NI2321 03",
+        "category_path": "dong-ho-nam-nibosi-chinh-hang-ni2321-03-27969721.html",
+        "image": "https://media3.scdn.vn/img4/2020/10_28/WqGwUWdcotaWAYf4Oqm2_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 499000,
+        "default_price_max": 499000,
+        "sale_price_min": 299000,
+        "sale_price_max": 299000,
+        "sale_percent": 41,
+        "sold": 13,
+        "has_video": true,
+        "seller_admin_id": 646759,
+        "sku_user": "Đồng hồ nam NI2321 03",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 646759,
+            "name": "Royal Time",
+            "status": 2,
+            "type": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+            }
+        },
+        "rated": {
+            "total": 5,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 27741449,
+        "name": "Đồng hồ nam NIBOSI chính hãng NI2322 04",
+        "category_path": "dong-ho-nam-nibosi-chinh-hang-ni2322-04-27741449.html",
+        "image": "https://media3.scdn.vn/img4/2020/10_28/6K0cFJk2dHCPWBeTM1hA_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 699000,
+        "default_price_max": 699000,
+        "sale_price_min": 499000,
+        "sale_price_max": 499000,
+        "sale_percent": 29,
+        "sold": 11,
+        "has_video": true,
+        "seller_admin_id": 646759,
+        "sku_user": "Đồng hồ nam NI2322 04",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 646759,
+            "name": "Royal Time",
+            "status": 2,
+            "type": 2,
+            "ware_house_region_name": "Vĩnh Phúc",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+            }
+        },
+        "rated": {
+            "total": 3,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17791629,
+        "name": "Đồng Hồ Nam Sunrise 1130SA WB [ Chính Hãng Full Box ] Sapphire Chống Xước , Chống Nước",
+        "category_path": "dong-ho-nam-sunrise-1130sa-wb-chinh-hang-full-box-sapphire-chong-xuoc-chong-nuoc-17791629.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_30/soYFJN_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 950000,
+        "default_price_max": 950000,
+        "sale_price_min": 750000,
+        "sale_price_max": 750000,
+        "sale_percent": 22,
+        "sold": 29,
+        "seller_admin_id": 504450,
+        "sku_user": "1130SA WB",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 504450,
+            "name": "Đồng Hồ Chính Hiệu",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 12,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 13904818,
+        "name": "Đồng hồ nam dây da",
+        "category_path": "dong-ho-nam-day-da-13904818.html",
+        "image": "https://media3.scdn.vn/img3/2019/1_5/OmW5jZ_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 428000,
+        "default_price_max": 428000,
+        "sale_price_min": 257000,
+        "sale_price_max": 257000,
+        "sale_percent": 40,
+        "sold": 45,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam dây da 12",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 10,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 25062930,
+        "name": "Đồng Hồ Nam Dây Da Sunrise 1127SA  Chính Hãng Full Box  Kính Sapphire Chống Xước  Chống Nước",
+        "category_path": "dong-ho-nam-day-da-sunrise-1127sa-chinh-hang-full-box-kinh-sapphire-chong-xuoc-chong-nuoc-25062930.html",
+        "image": "https://media3.scdn.vn/img4/2020/01_01/2ksyF8n9zJroGlPGAVQD_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 1180000,
+        "default_price_max": 1180000,
+        "sale_price_min": 675000,
+        "sale_price_max": 675000,
+        "sale_percent": 43,
+        "sold": 26,
+        "seller_admin_id": 487154,
+        "sku_user": "1127SA",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 487154,
+            "name": "Đồng Hồ World Time",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 8,
+            "star": 4.9
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21408281,
+        "name": "Đồng hồ nam Winner TM05-cơ lộ máy dây thép không gỉ",
+        "category_path": "dong-ho-nam-winner-tm05-co-lo-may-day-thep-khong-gi-21408281.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_4/he982p_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 665000,
+        "default_price_max": 665000,
+        "sale_price_min": 385000,
+        "sale_price_max": 385000,
+        "sale_percent": 43,
+        "sold": 94,
+        "seller_admin_id": 474147,
+        "sku_user": "Đồng hồ nam Winner TM05",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 474147,
+            "name": "Hoàng Diệp 05102017",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 36,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 63836496,
+        "name": "Đồng hồ nam dây da chống nước kim dạ quang",
+        "category_path": "dong-ho-nam-day-da-chong-nuoc-kim-da-quang-63836496.html",
+        "image": "https://media3.scdn.vn/img4/2021/11_10/fSyTYMHUxnpTZgO4RFyH_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 450000,
+        "default_price_max": 450000,
+        "sale_price_min": 260000,
+        "sale_price_max": 260000,
+        "sale_percent": 43,
+        "sold": 64,
+        "seller_admin_id": 371742,
+        "sku_user": "GSEI001",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 371742,
+            "name": "GemY_Shop",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 15,
+            "star": 4.1
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21691979,
+        "name": "Đồng hồ Nam ROMATIC 1986 Máy GERMANY - Khóa Bướm + Dây Thép Đúc Đặc Cao Cấp",
+        "category_path": "dong-ho-nam-romatic-1986-may-germany-khoa-buom-day-thep-duc-dac-cao-cap-21691979.html",
+        "image": "https://media3.scdn.vn/img4/2020/10_06/KI7kfnJ9wabDYdyjH0AK_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 250000,
+        "default_price_max": 250000,
+        "sale_price_min": 250000,
+        "sale_price_max": 250000,
+        "sold": 218,
+        "seller_admin_id": 168684,
+        "sku_user": "romatic_1986_xanhbac",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 168684,
+            "name": "Masali",
+            "status": 2,
+            "ware_house_region_name": "Hồ Chí Minh",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 46,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17954781,
+        "name": "Đồng Hồ Nam Thời Trang MCYMCY - Hàng Xịn",
+        "category_path": "dong-ho-nam-thoi-trang-mcymcy-hang-xin-17954781.html",
+        "image": "https://media3.scdn.vn/img3/2019/5_7/4arasg_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 298000,
+        "default_price_max": 298000,
+        "sale_price_min": 298000,
+        "sale_price_max": 298000,
+        "sold": 5,
+        "seller_admin_id": 382257,
+        "sku_user": "DHà Nội831",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 382257,
+            "name": "light_house73",
+            "status": 2,
+            "ware_house_region_name": "Bình Định",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 2,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 12103513,
+        "name": "đồng hồ nam",
+        "category_path": "dong-ho-nam-12103513.html",
+        "image": "https://media3.scdn.vn/img2/2018/10_6/K8moIs_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 250000,
+        "default_price_max": 250000,
+        "sale_price_min": 99000,
+        "sale_price_max": 99000,
+        "sale_percent": 61,
+        "sold": 141,
+        "has_video": true,
+        "seller_admin_id": 319361,
+        "sku_user": "đồng hồ nam AZ01",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 319361,
+            "name": "Zamza",
+            "status": 2,
+            "ware_house_region_name": "Bình Định",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 24,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 69711853,
+        "name": "Đồng Hồ Nam Thời Trang Doanh Nhân Dây Da PU Cao Cấp GNV24",
+        "category_path": "dong-ho-nam-thoi-trang-doanh-nhan-day-da-pu-cao-cap-gnv24-69711853.html",
+        "image": "https://media3.scdn.vn/img4/2021/12_04/yeCMolfMJhITA0vrIs8p_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 65000,
+        "default_price_max": 65000,
+        "sale_price_min": 29000,
+        "sale_price_max": 29000,
+        "sale_percent": 56,
+        "sold": 19,
+        "has_video": true,
+        "discount_app": 1,
+        "seller_admin_id": 345737,
+        "sku_user": "Đồng Hồ Thời Trang Nam GNV24",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 345737,
+            "name": "gia đình nhỏ",
+            "status": 2,
+            "ware_house_region_name": "Vĩnh Phúc",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 8,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 13887347,
+        "name": "Đồng hồ nam dây da cao cấp Olmeca7 6 kim",
+        "category_path": "dong-ho-nam-day-da-cao-cap-olmeca7-6-kim-13887347.html",
+        "image": "https://media3.scdn.vn/img3/2019/1_5/wd6rKq_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 725000,
+        "default_price_max": 725000,
+        "sale_price_min": 399000,
+        "sale_price_max": 399000,
+        "sale_percent": 45,
+        "sold": 64,
+        "has_video": true,
+        "seller_admin_id": 364189,
+        "sku_user": "Đồng hồ nam olm702",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 15,
+            "star": 4.3
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19679300,
+        "name": "Đồng hồ nam dây da",
+        "category_path": "dong-ho-nam-day-da-19679300.html",
+        "image": "https://media3.scdn.vn/img3/2019/7_5/CtSSK9_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 513000,
+        "default_price_max": 513000,
+        "sale_price_min": 283000,
+        "sale_price_max": 283000,
+        "sale_percent": 45,
+        "sold": 18,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam dây da Cr101",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 3.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16375041,
+        "name": "ĐỒNG HỒ NAM SWIDU DÂY KIM LOẠI CHÍNH HÃNG SIÊU BỀN. TẶNG  HỘP BẢO HÀNH 1 NĂM",
+        "category_path": "dong-ho-nam-swidu-day-kim-loai-chinh-hang-sieu-ben-tang-hop-bao-hanh-1-nam-16375041.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_1/yztRPd_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 1520000,
+        "default_price_max": 1520000,
+        "sale_price_min": 1520000,
+        "sale_price_max": 1520000,
+        "sold": 27,
+        "seller_admin_id": 433728,
+        "sku_user": "SWI-021",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 433728,
+            "name": "ĐỒNG HỒ XANH",
+            "status": 2,
+            "level": 99,
+            "type": 1,
+            "ware_house_region_name": "Vĩnh Phúc",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 8,
+            "star": 4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17200728,
+        "name": "Đồng Hồ Nam Gadyson mẫu mới siêu sang",
+        "category_path": "dong-ho-nam-gadyson-mau-moi-sieu-sang-17200728.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_4/52Hqv4_simg_de2fe0_250x250_maxb.jpeg",
+        "default_price_min": 270000,
+        "default_price_max": 270000,
+        "sale_price_min": 270000,
+        "sale_price_max": 270000,
+        "sold": 13,
+        "seller_admin_id": 483666,
+        "sku_user": "DH-GADYSON NAM 1",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 483666,
+            "name": "Luckygift",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Thanh Hóa",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 7,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 22309499,
+        "name": "Đồng hồ nam máy cơ Forsining H289M dây da",
+        "category_path": "dong-ho-nam-may-co-forsining-h289m-day-da-22309499.html",
+        "image": "https://media3.scdn.vn/img3/2019/10_4/jKXO6h_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 395000,
+        "default_price_max": 395000,
+        "sale_price_min": 395000,
+        "sale_price_max": 395000,
+        "sold": 62,
+        "seller_admin_id": 24706,
+        "sku_user": "H289M",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 24706,
+            "name": "Hoa Sim",
+            "status": 2,
+            "ware_house_region_name": "Hưng Yên",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 8,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 33010057,
+        "name": "Đồng Hồ Nam ROMATIC Giả Cơ Siêu Đẹp  - Chống Nước Tốt",
+        "category_path": "dong-ho-nam-romatic-gia-co-sieu-dep-chong-nuoc-tot-33010057.html",
+        "image": "https://media3.scdn.vn/img4/2020/08_31/xz8JxyH4QIXukhEXWmMn_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 350000,
+        "default_price_max": 350000,
+        "sale_price_min": 180000,
+        "sale_price_max": 180000,
+        "sale_percent": 49,
+        "sold": 29,
+        "seller_admin_id": 596515,
+        "sku_user": "romatic_giaco8846_xanhdemi02",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 596515,
+            "name": "donghonhat",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hồ Chí Minh",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 11,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16018462,
+        "name": "Đồng hồ nam cao cáp dây thép mành đen chạy lịch ngày ECONOMICXI - Thiết kế trẻ trung và cá tính",
+        "category_path": "dong-ho-nam-cao-cap-day-thep-manh-den-chay-lich-ngay-economicxi-thiet-ke-tre-trung-va-ca-tinh-16018462.html",
+        "image": "https://media3.scdn.vn/img4/2022/06_16/5CNJyiZWRYoVqliibnAD_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 2000000,
+        "default_price_max": 2000000,
+        "sale_price_min": 99000,
+        "sale_price_max": 99000,
+        "sale_percent": 96,
+        "sold": 102,
+        "has_video": true,
+        "discount_app": 2,
+        "seller_admin_id": 113244,
+        "sku_user": "DIZIZI24",
+        "product_type": 23,
+        "like_counter": 5,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 113244,
+            "name": "Volcano Shop",
+            "status": 2,
+            "ware_house_region_name": "Thanh Hóa",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 26,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21390527,
+        "name": "đồng hồ nam",
+        "category_path": "dong-ho-nam-21390527.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_3/BfRu5v_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 350000,
+        "default_price_max": 350000,
+        "sale_price_min": 149000,
+        "sale_price_max": 149000,
+        "sale_percent": 58,
+        "sold": 16,
+        "has_video": true,
+        "seller_admin_id": 319361,
+        "sku_user": "đồng hồ nam đồng hồ nam AZ36",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 319361,
+            "name": "Zamza",
+            "status": 2,
+            "ware_house_region_name": "Hưng Yên",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 20163947,
+        "name": "Đồng hồ nam dây thép lưới",
+        "category_path": "dong-ho-nam-day-thep-luoi-20163947.html",
+        "image": "https://media3.scdn.vn/img3/2019/7_23/ZyMPtk_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 517000,
+        "default_price_max": 517000,
+        "sale_price_min": 289000,
+        "sale_price_max": 289000,
+        "sale_percent": 45,
+        "sold": 18,
+        "seller_admin_id": 525642,
+        "sku_user": "đồng hồ nam Cm302",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 525642,
+            "name": "The Golden Stars 24",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 2,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 12252879,
+        "name": "Đồng hồ nam dây thép lưới siêu mỏng Crnaira thời trang cao cấp có 2 lịch full box",
+        "category_path": "dong-ho-nam-day-thep-luoi-sieu-mong-crnaira-thoi-trang-cao-cap-co-2-lich-full-box-12252879.html",
+        "image": "https://media3.scdn.vn/img2/2018/10_14/ghouVB_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 446000,
+        "default_price_max": 446000,
+        "sale_price_min": 259000,
+        "sale_price_max": 259000,
+        "sale_percent": 42,
+        "sold": 53,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam CR003",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17726851,
+        "name": "ĐỒNG HỒ NAM CURREN 8275 THỜI TRANG CHÍNH HÃNG PASSQ",
+        "category_path": "dong-ho-nam-curren-8275-thoi-trang-chinh-hang-passq-17726851.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_26/YM7noD_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 239000,
+        "default_price_max": 239000,
+        "sale_price_min": 239000,
+        "sale_price_max": 239000,
+        "sold": 6,
+        "seller_admin_id": 433728,
+        "sku_user": "8275-B",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 433728,
+            "name": "ĐỒNG HỒ XANH",
+            "status": 2,
+            "level": 99,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 3,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2021/10_21/mFcIndYzGOkBpNH6w5oN.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 41064966,
+        "name": "Đồng Hồ Nam Pafolina 5028M dây thép Chính Hãng Full Box , Kính Sapphire Chống Xước - Chống Nước 5ATM - Bảo hành 3 năm",
+        "category_path": "dong-ho-nam-pafolina-5028m-day-thep-chinh-hang-full-box-kinh-sapphire-chong-xuoc-chong-nuoc-5atm-bao-hanh-3-nam-41064966.html",
+        "image": "https://media3.scdn.vn/img4/2021/02_24/uiTPmbpLqaNoC0FVeTjP_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 1000000,
+        "default_price_max": 1000000,
+        "sale_price_min": 765000,
+        "sale_price_max": 1000000,
+        "sale_percent": 24,
+        "sold": 24,
+        "has_video": true,
+        "seller_admin_id": 567937,
+        "sku_user": "5028M",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 567937,
+            "name": "WORLD TIME WATCH",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 15,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 29766578,
+        "name": "Đồng Hồ Nam Dây Thép Đúc Olmeca D$N O1205 Thời Trang Cao Cấp Fullbox",
+        "category_path": "dong-ho-nam-day-thep-duc-olmeca-d-n-o1205-thoi-trang-cao-cap-fullbox-29766578.html",
+        "image": "https://media3.scdn.vn/img4/2020/05_19/7ejWEUp3uZWTce7IjtDF_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 660000,
+        "default_price_max": 660000,
+        "sale_price_min": 399000,
+        "sale_price_max": 399000,
+        "sale_percent": 40,
+        "sold": 8,
+        "seller_admin_id": 364189,
+        "sku_user": "dong ho nam O1205",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 12881259,
+        "name": "đồng hồ nam dây thép đúc đặc phong cách doanh nhân Olmeca chính hãng full box",
+        "category_path": "dong-ho-nam-day-thep-duc-dac-phong-cach-doanh-nhan-olmeca-chinh-hang-full-box-12881259.html",
+        "image": "https://media3.scdn.vn/img2/2018/11_15/Mgehwy_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 721000,
+        "default_price_max": 721000,
+        "sale_price_min": 399000,
+        "sale_price_max": 399000,
+        "sale_percent": 45,
+        "sold": 31,
+        "seller_admin_id": 364189,
+        "sku_user": "đồng hồ nam O01",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 364189,
+            "name": "The B Shop",
+            "status": 2,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 3,
+            "star": 4.3
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 22309253,
+        "name": "Đồng hồ nam Forsining A1 cơ lộ máy dây da kiểu dáng thể thao",
+        "category_path": "dong-ho-nam-forsining-a1-co-lo-may-day-da-kieu-dang-the-thao-22309253.html",
+        "image": "https://media3.scdn.vn/img3/2019/10_4/XJVSy9_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 395000,
+        "default_price_max": 395000,
+        "sale_price_min": 395000,
+        "sale_price_max": 395000,
+        "sold": 10,
+        "seller_admin_id": 24706,
+        "sku_user": "Forsining A1",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 24706,
+            "name": "Hoa Sim",
+            "status": 2,
+            "ware_house_region_name": "Hồ Chí Minh",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 25031734,
+        "name": "Đồng Hồ Nam Sunrise 1127SA, Chính Hãng Full Box , Kính Sapphire Chống Xước - Chống Nước - Dây Thép 316L",
+        "category_path": "dong-ho-nam-sunrise-1127sa-chinh-hang-full-box-kinh-sapphire-chong-xuoc-chong-nuoc-day-thep-316l-25031734.html",
+        "image": "https://media3.scdn.vn/img4/2021/01_08/u4e1JBleZdHt7Vj8zClx_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 1250000,
+        "default_price_max": 1250000,
+        "sale_price_min": 725000,
+        "sale_price_max": 725000,
+        "sale_percent": 43,
+        "sold": 16,
+        "has_video": true,
+        "seller_admin_id": 567937,
+        "sku_user": "1127SA",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 567937,
+            "name": "WORLD TIME WATCH",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Nam Định",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 10,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    }
+],
+"options": [
+    {
+        "attribute_term": "DefaultTerm",
+        "attribute_name": "Địa điểm",
+        "attribute_key": "shop_warehouse_city_id",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": 2,
+                "option_name": "Hà Nội"
+            },
+            {
+                "option_id": 1,
+                "option_name": "Hồ Chí Minh"
+            },
+            {
+                "option_id": 33,
+                "option_name": "Lâm Đồng"
+            },
+            {
+                "option_id": 35,
+                "option_name": "Lào Cai"
+            },
+            {
+                "option_id": 57,
+                "option_name": "Vĩnh Phúc"
+            },
+            {
+                "option_id": 37,
+                "option_name": "Nam Định"
+            },
+            {
+                "option_id": 51,
+                "option_name": "Thanh Hóa"
+            },
+            {
+                "option_id": 64,
+                "option_name": "Hưng Yên"
+            },
+            {
+                "option_id": 17,
+                "option_name": "Đà Nẵng"
+            },
+            {
+                "option_id": 11,
+                "option_name": "Bình Định"
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultNewTerm",
+        "attribute_name": "Phương thức vận chuyển",
+        "attribute_key": "shipping_method",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_name": "Hỏa tốc",
+                "search_key": "is_using_instant",
+                "value": 1
+            },
+            {
+                "option_name": "Chuyển phát tiêu chuẩn",
+                "search_key": "is_using_standard",
+                "value": 1
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultNewTerm",
+        "attribute_name": "Loại shop",
+        "attribute_key": "shop_type",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_name": "SenMall",
+                "search_key": "shop_type",
+                "value": 2
+            },
+            {
+                "option_name": "Shop+",
+                "search_key": "is_shop_plus",
+                "value": 1
+            },
+            {
+                "option_name": "Shop tự giao",
+                "search_key": "is_self_shipping",
+                "value": 1
+            },
+            {
+                "option_name": "Shop uy tín",
+                "search_key": "is_certified",
+                "value": 1
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "campaign_id",
+        "attribute_value": [
+            {
+                "name": "TUẦN LỄ NHÀ CỬA  01-06.10",
+                "value": 103,
+                "icon": "",
+                "label": "TUẦN LỄ NHÀ CỬA  01-06.10",
+                "background_color": "",
+                "background_image": ""
+            },
+            {
+                "name": "SĂN SALE SHOP + (01-27/11)",
+                "value": 118,
+                "icon": "",
+                "label": "SĂN SALE SHOP + (01-27/11)",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "is_flash_sale",
+        "attribute_value": [
+            {
+                "name": "Flash Sale",
+                "value": 1,
+                "icon": "flashsale",
+                "label": "Flash Sale",
+                "position": "top",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "is_mega_voucher",
+        "attribute_value": [
+            {
+                "name": "Siêu voucher tháng 11",
+                "value": 1,
+                "icon": "install",
+                "label": "Siêu voucher tháng 11",
+                "position": "",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "is_pay_later",
+        "attribute_value": [
+            {
+                "name": "Mua trước trả sau",
+                "value": 1,
+                "icon": "install",
+                "label": "Mua trước trả sau",
+                "position": "",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "is_combo_discount",
+        "attribute_value": [
+            {
+                "name": "Mua gói siêu hời",
+                "value": 1,
+                "icon": "install",
+                "label": "Mua gói siêu hời",
+                "position": "",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "is_quantity_discount",
+        "attribute_value": [
+            {
+                "name": "Mua nhiều giảm giá",
+                "value": 1,
+                "icon": "install",
+                "label": "Mua nhiều giảm giá",
+                "position": "",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "is_shipping_discount",
+        "attribute_value": [
+            {
+                "name": "Freeship",
+                "value": 1,
+                "icon": "delivery",
+                "label": "Freeship",
+                "position": "top",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "is_promotion",
+        "attribute_value": [
+            {
+                "name": "Khuyến mãi",
+                "value": 1,
+                "icon": "discount",
+                "label": "Khuyến mãi",
+                "position": "",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "promotion_app",
+        "attribute_value": [
+            {
+                "name": "Khuyến mãi app",
+                "value": 1,
+                "icon": "discountApp",
+                "label": "Khuyến mãi app",
+                "position": "",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "GeneralTerm",
+        "attribute_key": "is_installment",
+        "attribute_value": [
+            {
+                "name": "Trả góp 0%",
+                "value": 1,
+                "icon": "install",
+                "label": "Trả góp 0%",
+                "position": "",
+                "background_color": "",
+                "background_image": ""
+            }
+        ]
+    },
+    {
+        "attribute_term": "PriceTerm",
+        "attribute_name": "Khoảng giá",
+        "attribute_key": "levelPrice",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "gtprice": -1,
+                "ltprice": "200000"
+            },
+            {
+                "gtprice": "200000",
+                "ltprice": "300000"
+            },
+            {
+                "gtprice": "300000",
+                "ltprice": "700000"
+            },
+            {
+                "gtprice": "700000",
+                "ltprice": "2500000"
+            },
+            {
+                "gtprice": "2500000",
+                "ltprice": "5500000"
+            },
+            {
+                "gtprice": "5500000",
+                "ltprice": -1
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "RatingTerm",
+        "attribute_name": "Đánh giá",
+        "attribute_key": "levelRating",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_name": "5 sao",
+                "gte_rating_percent": "5",
+                "lte_rating_percent": ""
+            },
+            {
+                "option_name": "4-5 sao",
+                "gte_rating_percent": "4",
+                "lte_rating_percent": "5"
+            },
+            {
+                "option_name": "3-5 sao",
+                "gte_rating_percent": "3",
+                "lte_rating_percent": "5"
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "ColorTerm",
+        "attribute_name": "Màu sắc",
+        "attribute_key": "mau_sac",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": "mau_sac:603",
+                "value": "Vàng",
+                "color_id": 4,
+                "image": "",
+                "color_hexRgb": "ffff00",
+                "color_name": "Vàng",
+                "background": ""
+            },
+            {
+                "option_id": "mau_sac:604",
+                "value": "Trắng",
+                "color_id": 9,
+                "image": "",
+                "color_hexRgb": "ffffff",
+                "color_name": "Trắng",
+                "background": ""
+            },
+            {
+                "option_id": "mau_sac:1476",
+                "value": "Khác",
+                "color_id": 19,
+                "image": "https://media3.scdn.vn/img/2014/3_6/khac_2ikqk5jehmtts_simg_2df889_740x613_max.gif",
+                "color_hexRgb": "",
+                "color_name": "Khác",
+                "background": ""
+            },
+            {
+                "option_id": "mau_sac:602",
+                "value": "Nâu",
+                "color_id": 5,
+                "image": "",
+                "color_hexRgb": "804000",
+                "color_name": "Nâu",
+                "background": ""
+            },
+            {
+                "option_id": "mau_sac:605",
+                "value": "Đen",
+                "color_id": 13,
+                "image": "",
+                "color_hexRgb": "000000",
+                "color_name": "Đen",
+                "background": ""
+            },
+            {
+                "option_id": "mau_sac:610",
+                "value": "Xanh đen",
+                "color_id": 20,
+                "image": "",
+                "color_hexRgb": "112c4e",
+                "color_name": "Xanh đen",
+                "background": ""
+            },
+            {
+                "option_id": "mau_sac:1577",
+                "value": "Bạc",
+                "color_id": 6,
+                "image": "",
+                "color_hexRgb": "cccccc",
+                "color_name": "Bạc",
+                "background": ""
+            },
+            {
+                "option_id": "mau_sac:628",
+                "value": "Đỏ",
+                "color_id": 16,
+                "image": "",
+                "color_hexRgb": "ff0000",
+                "color_name": "Đỏ",
+                "background": ""
+            },
+            {
+                "option_id": "mau_sac:607",
+                "value": "Xanh lá",
+                "color_id": 14,
+                "image": "",
+                "color_hexRgb": "00ff00",
+                "color_name": "Xanh lá",
+                "background": ""
+            },
+            {
+                "option_id": "mau_sac:608",
+                "value": "Xanh nước biển",
+                "color_id": 11,
+                "image": "",
+                "color_hexRgb": "0080ff",
+                "color_name": "Xanh nước biển",
+                "background": ""
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultTerm",
+        "attribute_name": "Loại dây",
+        "attribute_key": "day",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": 17820,
+                "option_name": "Dây da",
+                "background": ""
+            },
+            {
+                "option_id": 24503,
+                "option_name": "Khác",
+                "background": ""
+            },
+            {
+                "option_id": 17821,
+                "option_name": "Dây kim loại",
+                "background": ""
+            },
+            {
+                "option_id": 17822,
+                "option_name": "Dây nhựa",
+                "background": ""
+            },
+            {
+                "option_id": 17823,
+                "option_name": "Dây cao su",
+                "background": ""
+            },
+            {
+                "option_id": 17824,
+                "option_name": "Dây vải",
+                "background": ""
+            },
+            {
+                "option_id": 18022,
+                "option_name": "Dây đá",
+                "background": ""
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultTerm",
+        "attribute_name": "Độ chịu nước",
+        "attribute_key": "do_chiu_nuoc_3712",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": 37118,
+                "option_name": "Không chống nước",
+                "background": ""
+            },
+            {
+                "option_id": 37119,
+                "option_name": "3 ATM",
+                "background": ""
+            },
+            {
+                "option_id": 37120,
+                "option_name": "5 ATM",
+                "background": ""
+            },
+            {
+                "option_id": 37121,
+                "option_name": "10 ATM",
+                "background": ""
+            },
+            {
+                "option_id": 37122,
+                "option_name": "20 ATM",
+                "background": ""
+            },
+            {
+                "option_id": 37123,
+                "option_name": "Khác",
+                "background": ""
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultTerm",
+        "attribute_name": "Mặt đồng hồ",
+        "attribute_key": "mat_dong_ho",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": 20018,
+                "option_name": "Mặt tròn",
+                "background": ""
+            },
+            {
+                "option_id": 20019,
+                "option_name": "Mặt chữ nhật",
+                "background": ""
+            },
+            {
+                "option_id": 20020,
+                "option_name": "Mặt vuông",
+                "background": ""
+            },
+            {
+                "option_id": 20021,
+                "option_name": "Mặt oval",
+                "background": ""
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultTerm",
+        "attribute_name": "Bảo hành",
+        "attribute_key": "bao_hanh",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": "bao_hanh:17825",
+                "option_name": "5 Năm",
+                "background": ""
+            },
+            {
+                "option_id": "bao_hanh:22349",
+                "option_name": "1 Năm",
+                "background": ""
+            },
+            {
+                "option_id": "bao_hanh:22348",
+                "option_name": "2 Năm",
+                "background": ""
+            },
+            {
+                "option_id": "bao_hanh:22350",
+                "option_name": "3 Năm",
+                "background": ""
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultTerm",
+        "attribute_name": "Chất liệu mặt kính",
+        "attribute_key": "chat_lieu_mat_kinh",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": "chat_lieu_mat_kinh_3715:37133",
+                "option_name": "Khác",
+                "background": ""
+            },
+            {
+                "option_id": "chat_lieu_mat_kinh_3715:37130",
+                "option_name": "Kính Sapphire",
+                "background": ""
+            },
+            {
+                "option_id": "chat_lieu_mat_kinh_3715:37131",
+                "option_name": "Kính cứng",
+                "background": ""
+            },
+            {
+                "option_id": "chat_lieu_mat_kinh_3715:37132",
+                "option_name": "Nhựa",
+                "background": ""
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultTerm",
+        "attribute_name": "Đối tượng sử dụng",
+        "attribute_key": "doi_tuong_su_dung",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": "gioi_tinh_3714:37127",
+                "option_name": "Nam",
+                "background": ""
+            },
+            {
+                "option_id": "gioi_tinh_3714:37128",
+                "option_name": "Nữ",
+                "background": ""
+            },
+            {
+                "option_id": "gioi_tinh_3714:37129",
+                "option_name": "Unisex",
+                "background": ""
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultTerm",
+        "attribute_name": "Xuất xứ",
+        "attribute_key": "xuat_xu",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": "xuat_xu_1:20198",
+                "option_name": "Anh Quốc",
+                "background": ""
+            },
+            {
+                "option_id": "xuat_xu_1:17920",
+                "option_name": "Trung Quốc",
+                "background": ""
+            },
+            {
+                "option_id": "xuat_xu_1:17921",
+                "option_name": "Đài Loan",
+                "background": ""
+            },
+            {
+                "option_id": "xuat_xu_1:17932",
+                "option_name": "Nhật",
+                "background": ""
+            },
+            {
+                "option_id": "xuat_xu_1:17933",
+                "option_name": "Mỹ",
+                "background": ""
+            },
+            {
+                "option_id": "xuat_xu_1:17935",
+                "option_name": "Châu Á",
+                "background": ""
+            },
+            {
+                "option_id": "xuat_xu_1:17919",
+                "option_name": "Hồng Kông",
+                "background": ""
+            },
+            {
+                "option_id": "xuat_xu_1:18027",
+                "option_name": "Hàn Quốc",
+                "background": ""
+            },
+            {
+                "option_id": "xuat_xu_1:17924",
+                "option_name": "Thụy Sĩ",
+                "background": ""
+            },
+            {
+                "option_id": "xuat_xu_1:17925",
+                "option_name": "Châu Âu",
+                "background": ""
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultTerm",
+        "attribute_name": "Loại máy",
+        "attribute_key": "loai_may",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_id": "may_nang_luong:17930",
+                "option_name": "Kinetic (vừa pin vừa tự động)",
+                "background": ""
+            },
+            {
+                "option_id": "may_nang_luong:17929",
+                "option_name": "Pin (Quartz)",
+                "background": ""
+            },
+            {
+                "option_id": "may_nang_luong:7026524",
+                "option_name": "Bấm giờ (Chronograph)",
+                "background": ""
+            },
+            {
+                "option_id": "may_nang_luong:17927",
+                "option_name": "Cơ (Automatic)",
+                "background": ""
+            },
+            {
+                "option_id": "may_nang_luong:17928",
+                "option_name": "Năng lượng mặt trời",
+                "background": ""
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    },
+    {
+        "attribute_term": "DefaultNewTerm",
+        "attribute_name": "Bộ lọc khác",
+        "attribute_key": "other_type",
+        "attribute_icon": "",
+        "attribute_label": "",
+        "attribute_value": [
+            {
+                "option_name": "Có video",
+                "search_key": "is_video",
+                "icon": "icon",
+                "value": 1
+            }
+        ],
+        "attribute_background_color": "",
+        "attribute_background_image": ""
+    }
+]
+}

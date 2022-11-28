@@ -1,0 +1,102 @@
+.contact {
+    background-color: #27343e;
+    height: 202px;
+    padding: 24px;
+}
+.main-contact {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    margin: 0 auto;
+
+}
+.subcribe-email,
+.contact-detail {
+    color: #fff;
+    width: 50%;
+}
+.contact-detail span {
+    display: block;
+    width: 546px;
+}
+.contact-detail .detail-title,
+.subcribe-email .subcribe-title {
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    
+}
+.subcribe-email form {
+    display: flex;
+}
+.contact-detail .content {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0 0 16px;
+}
+.contact-img img {
+    margin-right: 20px;
+    width: 108px;
+    height: 34px;
+}
+#sub-input input {
+    border-radius: 5px;
+    border: none;
+    padding: 8px;
+    width: 312px;
+    height: 16px;
+}
+#sub-button {
+    border-radius: 5px;
+    border: none;
+    margin-left: 4px;
+    padding: 8px 16px;
+    background-color: #ee2624;
+    color: #fff;
+}
+#sub-button:hover {
+    cursor: pointer;
+    background-color: #f1514f;
+}
+#sub-button span {
+    font-size: 14px;
+    font-weight: 700;
+    width: 50px;
+    height: 18px;
+}
+#scroll-up {
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    bottom: 80px;
+    right: 54px;
+    width: 40px;
+    height: 40px;
+    border: none;
+    border: 1px solid #d6d6d6;
+    font-size: 20px;
+    box-shadow: 2px 1px 4px 2px rgb(0 0 0 / 20%);
+    color: rgb(136, 138, 142);
+    border-radius: 3px;
+}
+#scroll-up:hover{
+    cursor: pointer;
+    box-shadow: 2px 1px 5px 2px rgb(0 0 0 / 24%);
+}
+#chat-button {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    bottom: 20px;
+    right: 20px;
+    color: #fff;
+    background-color: #3f81fe;
+    border-radius: 4px;
+    width: 94px;
+    height: 40px;
+}
+#chat-button:hover {
+    cursor: pointer;
+    background-color: #4884f3;
+}

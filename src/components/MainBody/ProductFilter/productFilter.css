@@ -1,0 +1,23 @@
+.product-filter {
+    line-height: 30px;
+}
+.product-filter label {
+    margin-right: 8px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #3f4b53;
+}
+.product-filter select {
+    padding: 8px 0 8px 8px;
+    border-radius: 3px;
+    font-size: 14px;
+    color: #6f787e;
+}
+.product-filter select:hover {
+    cursor: pointer;
+    border-color: rgb(9, 76, 114);
+}
+.product-filter select:focus {
+    border-color: rgb(9, 76, 114);
+}
+
