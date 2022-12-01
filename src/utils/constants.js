@@ -6,7 +6,6 @@ export const WAREHOUSE_REGION_NAME = 'ware_house_region_name';
 export const initFilterFields = {
 
     warehouseNames: [],
-    levelPrice: [],
 
 }
 

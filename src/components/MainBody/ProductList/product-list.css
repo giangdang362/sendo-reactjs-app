@@ -6,6 +6,7 @@
     width: 100%;
     width: auto;
 }
+
 .product-list a {
     text-decoration: none;
 }
@@ -32,6 +33,7 @@
 .image-zone img {
     width: 100%;
     height: 100%;
+    border-radius: 4px;
 }
 
 /* content-zone */

@@ -6,6 +6,11 @@ import {useState,useEffect} from 'react'
 
 function Contact() {
     const [showGotoTop, setShowGoToTop] = useState(false);
+    
+    const GoToTop = () => {
+        window.scrollTo({top: 0, behavior: 'smooth'});
+    };
+
     useEffect(() => {
         const handleScroll = () => {
             setShowGoToTop(window.scrollY >= 200)
@@ -44,7 +49,7 @@ function Contact() {
                 </div>
 
             </div>
-            {showGotoTop? <button  id='scroll-up'>
+            {showGotoTop? <button  id='scroll-up' onClick={GoToTop}>
                 <AiOutlineArrowUp />
             </button> : null}
             <div id='chat-button'>

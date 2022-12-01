@@ -32,7 +32,6 @@ function HeaderTop() {
     const [showQr, setShowQr] = useState(false)
     const [showCareCustomer, setShowCareCustomer] = useState(false)
     const [showCheckOrder, setShowCheckOrder] = useState(false)
-    console.log("Hello")
     const clickOutside = () => {
         setShowQr(false);
         setShowCareCustomer(false);

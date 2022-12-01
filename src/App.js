@@ -11,19 +11,38 @@ import Footer from './components/Footter/Footer';
 import Contact from './components/Footter/Contact';
 import { initFilterFields } from './utils/constants';
 import { filterByAttributeKey, updateFilterField } from './utils/helpers';
+import EmptyPage from './components/EmptyPage';
 
 const MainProduct = (props) => {
-  const { products, setProducts } = props;
+  const { products, setProducts, searchInput } = props;
 
   const [productsSnapshot, setProductsSnapshot] = useState([]);
+
+  const [productSearch, setProductSearch] = useState([]);
+
+  useEffect(() => {
+    applyFiltersSearch(searchInput);
+
+  }, [searchInput])
+
+  const applyFiltersSearch = (searchInput) => {
+    if (searchInput) {
+      let updateSearch;
+
+      updateSearch = productSearch.filter((item) => item.name.toLowerCase().trim().indexOf(searchInput.toLowerCase().trim()) !== -1);
+      console.log('searchInput', productsSnapshot);
+      setProductsSnapshot(updateSearch);
+    }
+    if (searchInput.length === 0) {
+      setProductsSnapshot([...productSearch]);
+    }
+  }
   
   const [filterFields, setFilterFields] = useState(initFilterFields);
-  console.log(productsSnapshot)
-  // Khi render UI lan dau tien: useEffect se chay 1 lan : productsSnapshot se duoc dai gia tri tu 
+
   useEffect(() => {
     setProductsSnapshot([...products]);
-    console.log([...products]);
-    console.log(productsSnapshot)
+    setProductSearch([...products]);
   }, [products]);
 
   const handleFilterProducts = (e, item, attributeKey) => {
@@ -32,6 +51,10 @@ const MainProduct = (props) => {
     const filters = updateFilterField(filterFields, attributeKey, setFilterFields, item, checked);
     const filteredProducts = filterByAttributeKey(attributeKey, products, filters, setProducts);
     setProductsSnapshot(filteredProducts);
+    setProductSearch(filteredProducts);
+    if (filteredProducts.length === 0) {
+      setProductsSnapshot([...products]);
+    }
   }
 
   return (
@@ -43,10 +66,10 @@ const MainProduct = (props) => {
         </div>
         <div id='main-result'>
           <div id='product-filter'>
-            <ProductFilter />
+            <ProductFilter products={products} setProductsSnapshot={setProductsSnapshot}/>
           </div>
           <div id='list-result'>
-            <ProductList products={productsSnapshot} />
+            {productsSnapshot.length !== 0 ? <ProductList products={productsSnapshot}/> : <EmptyPage />  }
           </div>
         </div>
       </div>
@@ -57,15 +80,15 @@ const MainProduct = (props) => {
 const endPoint = 'http://localhost:8000/products'
 
 function App() {
-
+  
+  const [searchInput, setSearchInput] = useState("");
   const [products, setProducts] = useState([])
-  console.log(products)
+
   useEffect(() => {
     fetch(endPoint)
       .then(res => res.json())
       .then(products => {
         setProducts(products);
-        console.log(products)
       })
   }, []);
 
@@ -73,9 +96,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <HeaderTop />
-        <HeaderBot />
+        <HeaderBot
+          setSearchInput={setSearchInput}
+        />
+
       </header>
-      <MainProduct products={products} setProducts={setProducts} />
+      <MainProduct
+        searchInput={searchInput}
+        products={products}
+        setProducts={setProducts}
+      />
       <div className='footer'>
         <Footer />
       </div>

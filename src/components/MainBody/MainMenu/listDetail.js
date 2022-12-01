@@ -3,7 +3,6 @@ import { useEffect, useState } from 'react'
 
 function ListDetail(props) {
     const { dataDetail, attributeKey, handleFilterProducts } = props;
-    console.log('ListDetail:')
 
     function formatPrice(number) {
         if (number / 100000 > 1) {

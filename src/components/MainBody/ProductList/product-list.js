@@ -32,7 +32,7 @@ function ProductList(props) {
                                 </div>
                                 <div className='content-zone'>
                                     <div id='tag-discount'>
-                                        {checkType('shipping_discount', product?.package_discount) ? <img src={checkType('shipping_discount', product?.package_discount)} alt="" /> : null}
+                                        {checkType('shipping_discount', product?.package_discount) ? <img className='product-img' src={checkType('shipping_discount', product?.package_discount)} alt="" /> : null}
                                         {checkType('sale_event', product?.package_discount) ? <img src={checkType('sale_event', product?.package_discount)} alt="" /> : null}
                                     </div>
                                     <span className='product-title'>

@@ -4,6 +4,8 @@
     padding: 5px;
     font-size: 15px;
     font-weight: 500;
+    justify-content: space-between;
+    align-items: center;
 }
 hr {
     opacity: 0.6;
@@ -13,10 +15,18 @@ hr {
 }
 
 .dropdown-icon {
-    flex: 1;
+
     font-size: 12px;
-    justify-content: flex-end;
-    display: flex;
-    
+    color: rgb(128, 130, 133);
+    background-color: rgb(233, 229, 229);
+    border: 1px solid rgb(202, 201, 201);
+    width: 14px;
+    height: 14px;
+    text-align: center;
+    align-items: center;
+    border-radius: 2px;
+}
+.noActive{
+    display: none;
 }
 

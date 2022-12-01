@@ -24,7 +24,7 @@ export const updateFilterField = (filterFields, attributeKey, updateStateFunctio
         fieldName = item?.option_name;
 
         const { warehouseNames,levelPrice } = newFilterFields;
-        if (!warehouseNames.includes(fieldName)|| levelPrice.includes()) {
+        if (!warehouseNames.includes(fieldName)) {
             if (checked) {
                 console.log(checked)
                 warehouseNames.push(fieldName);
