@@ -31,13 +31,16 @@ function ListDetail(props) {
                 return (
                     <li className='option-item' key={index} >
                         <input
+                            id='checkbox-item'
                             type="checkbox"
                             onChange={(e) => handleFilterProducts(e, item, attributeKey)}
                         />
-                        {item?.option_name ? item?.option_name : null}
-                        {item?.gtprice ? handleRangePrice(item?.gtprice, item?.ltprice) : null}
-                        {item?.color_hexRgb ? <td className='color-option' style={{ background: `#${item?.color_hexRgb}` }} title={item?.color_name}></td> : null}
-                        {item?.image ? <img className='color-option' title={item?.color_name} src={item?.image} /> : null}
+                        <span>
+                            {item?.option_name ? item?.option_name : null}
+                            {item?.gtprice ? handleRangePrice(item?.gtprice, item?.ltprice) : null}
+                            {item?.color_hexRgb ? <td className='color-option' style={{ background: `#${item?.color_hexRgb}` }} title={item?.color_name}></td> : null}
+                            {item?.image ? <img className='color-option' title={item?.color_name} src={item?.image} /> : null}
+                        </span>
                     </li>
                 )
             })}

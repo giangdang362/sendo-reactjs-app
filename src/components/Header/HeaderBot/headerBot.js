@@ -1,6 +1,6 @@
 import './headerBot.css'
 import { AiOutlineQrcode } from "react-icons/ai";
-import { AiOutlineSearch } from "react-icons/ai";
+import { AiOutlineSearch,AiOutlineArrowLeft } from "react-icons/ai";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import Login from '../Login/Login';
 import { useState } from 'react';
@@ -23,6 +23,9 @@ function HeaderBot(props) {
             <div id="qr-code">
                 <AiOutlineQrcode className='navbar-icon qr-icon' />
             </div>
+            <div className='back-space'>
+                <AiOutlineArrowLeft />
+            </div>
             <div className='search-input'>
                 <input
                     type="text"
@@ -31,7 +34,7 @@ function HeaderBot(props) {
                 />
                 <AiOutlineSearch className='search-icon navbar-icon' />
             </div>
-            <div>
+            <div className='cart-shop'>
                 <AiOutlineShoppingCart className='cart-icon navbar-icon' />
             </div>
             <div className='login-btn'>

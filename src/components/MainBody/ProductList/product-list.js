@@ -37,7 +37,7 @@ function ProductList(props) {
                                     </div>
                                     <span className='product-title'>
                                         {product.shop.badge_urls.shop_plus ? <img src={product.shop.badge_urls.shop_plus} alt="" /> : null}
-                                        {product.name}
+                                        <span className='title-item'>{product.name}</span>
                                     </span>
                                     <div className='product-price'>
                                         <span>
@@ -74,10 +74,10 @@ function ProductList(props) {
                                             <span id='rate-score' style={{ marginLeft: '5px' }}>
                                                 {product.rated.star}/5
                                             </span>
-                                            <span style={{ marginLeft: '5px', color: '#6f787e' }}>({product.rated.total})</span>
+                                            <span id='total-rate' style={{ marginLeft: '5px', color: '#6f787e' }}>({product.rated.total})</span>
                                         </div>
                                     </div>
-                                    <div style={{ display: 'block', color: '#3f4b53', fontSize: '14px', fontWeight: '400' }}>
+                                    <div style={{ display: 'block', color: '#3f4b53', fontSize: '14px', fontWeight: '500' }}>
                                         {product?.shop?.ware_house_region_name}
                                     </div>
                                 </div>

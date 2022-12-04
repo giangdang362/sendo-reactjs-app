@@ -12,6 +12,7 @@ import Contact from './components/Footter/Contact';
 import { initFilterFields } from './utils/constants';
 import { filterByAttributeKey, updateFilterField } from './utils/helpers';
 import EmptyPage from './components/EmptyPage';
+import ExpandButton from './commons/expand.js'
 
 const MainProduct = (props) => {
   const { products, setProducts, searchInput } = props;
@@ -73,6 +74,9 @@ const MainProduct = (props) => {
           </div>
         </div>
       </div>
+      <div className='expand-button'>
+        <ExpandButton />
+      </div>
     </div>
   )
 }
@@ -94,7 +98,7 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
+      <header id="app-header">
         <HeaderTop />
         <HeaderBot
           setSearchInput={setSearchInput}
@@ -109,7 +113,10 @@ function App() {
       <div className='footer'>
         <Footer />
       </div>
-      <Contact />
+      <div className='app-contact'>
+        <Contact />
+      </div>
+      
     </div>
   );
 }

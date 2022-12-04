@@ -3,8 +3,9 @@
     padding: 0 24px;
     color: #fff;
     background-color: #D52220;
-    width: 100%;
 }
+
+
 .listHeaderTop ul {
     display: flex;
     width: 90%;
@@ -67,4 +68,17 @@
 .buttonCheck:hover {
     cursor: pointer;
     background-color: #f1514f;
+}
+/* Tablet */
+@media screen and (min-width:740px) and (max-width:1023px) {
+    .listHeaderTop {
+        display: none;
+    }
+}
+
+/* Mobile */
+@media screen and (max-width:739px) {
+    .listHeaderTop {
+        display: none;
+    }
 }

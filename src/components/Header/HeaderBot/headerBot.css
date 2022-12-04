@@ -39,6 +39,9 @@
     padding: 8px 16px;
     width: 300px;
 }
+.back-space {
+    display: none;
+}
 
 .search-input {
     position: relative;
@@ -50,7 +53,7 @@
 }
 .search-icon {
     font-size: 24px;
-    margin: 0 0.3rem 0 0.3rem;
+    margin-left: 6px;
     color: #000;
     background-color: #fff;
     border-radius: 5px;
@@ -77,4 +80,81 @@
 .login-btn :hover {
     cursor: pointer;
 
+}
+
+/* Tablet */
+@media screen and (min-width:740px) and (max-width:1023px) {
+    .search-icon {
+        margin-left: 1px;
+    }
+    .back-space {
+        display: flex;
+        font-size: 24px;
+        color: #000;
+        background-color: #fff;
+        border-radius: 5px;
+        border: 1px;
+        padding: 6px 8px;
+        margin-right: 4px;
+    }
+    .listHeaderBot {
+        width: 95%;
+        padding-top: 4px;
+        height: 46px;
+    }
+    .search-input input {
+        width:100%;
+        margin-right: 3px;
+    }
+    .logo-sendo,#qr-code {
+        display: none;
+    }
+    .cart-shop {
+        display: flex;
+        display: none;
+    }
+    .login-btn {
+        display: none;
+    }
+}
+
+/* Mobile */
+@media screen and (max-width:739px) {
+    .search-icon {
+        margin-left: 1px;
+    }
+    .back-space {
+        display: flex;
+        font-size: 24px;
+        color: #000;
+        background-color: #fff;
+        border-radius: 5px;
+        border: 1px;
+        padding: 6px 8px;
+        margin-right: 4px;
+    }
+    .listHeaderBot {
+        width: 95%;
+        padding-top: 4px;
+        height: 46px;
+        position: fixed;
+        top:0;
+        left: 0;
+        right: 0;
+        z-index: 1;
+    }
+    .search-input input {
+        width:100%;
+        margin-right: 3px;
+    }
+    .logo-sendo,#qr-code {
+        display: none;
+    }
+    .cart-shop {
+        display: flex;
+        display: none;
+    }
+    .login-btn {
+        display: none;
+    }
 }

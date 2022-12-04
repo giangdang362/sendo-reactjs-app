@@ -3,6 +3,7 @@
     height: 202px;
     padding: 24px;
 }
+
 .main-contact {
     display: flex;
     justify-content: space-around;
@@ -99,4 +100,112 @@
 #chat-button:hover {
     cursor: pointer;
     background-color: #4884f3;
+}
+/* Tablet */
+@media screen and (min-width:740px) and (max-width:1023px) {
+    .contact {
+        height: auto;
+        padding:12px
+    }
+    .subcribe-email {
+        display: none;
+    }
+    .main-contact {
+        width: 100%;
+    }
+    .contact-detail {
+        width: 100%;
+    }
+    .contact-detail .detail-title {
+        text-align: center;
+    }
+    .contact-detail .content {
+        font-size: 12px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .contact-detail span {
+        display: block;
+        width: auto;
+    }
+    .contact-img {
+        text-align: center;
+    }
+    #scroll-up {
+        bottom: 70px;
+        right: 36px;
+        width: 36px;
+        height: 36px;
+        border: 1px solid #d6d6d6;
+        font-size: 16px;
+        box-shadow: 2px 1px 4px 2px rgb(0 0 0 / 20%);
+        color: rgb(136, 138, 142);
+        border-radius: 2px;
+        opacity: 0.9;
+    }
+    #chat-button {
+        bottom: 20px;
+        right: 20px;
+        color: #fff;
+        background-color: #3f81fe;
+        border-radius: 4px;
+        width: 72px;
+        height: 40px;
+        opacity: 0.75;
+    }
+}
+
+/* Mobile */ 
+@media screen and (max-width:739px) {
+    .contact {
+        height: auto;
+        padding:12px
+    }
+    .subcribe-email {
+        display: none;
+    }
+    .main-contact {
+        width: 100%;
+    }
+    .contact-detail {
+        width: 100%;
+    }
+    .contact-detail .detail-title {
+        text-align: center;
+    }
+    .contact-detail .content {
+        font-size: 12px;
+        font-weight: 400;
+        text-align: center;
+    }
+    .contact-detail span {
+        display: block;
+        width: auto;
+    }
+    .contact-img {
+        text-align: center;
+    }
+
+    #scroll-up {
+        bottom: 70px;
+        right: 20px;
+        width: 36px;
+        height: 36px;
+        border: 1px solid #d6d6d6;
+        font-size: 16px;
+        box-shadow: 2px 1px 4px 2px rgb(0 0 0 / 20%);
+        color: rgb(136, 138, 142);
+        border-radius: 2px;
+        opacity: 0.8;
+    }
+    #chat-button {
+        bottom: 20px;
+        right: 20px;
+        color: #fff;
+        background-color: #3f81fe;
+        border-radius: 4px;
+        width: 72px;
+        height: 40px;
+        opacity: 0.75;
+    }
 }

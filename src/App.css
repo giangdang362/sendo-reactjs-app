@@ -2,9 +2,10 @@ html {
   font-family: 'Times New Roman', Times, serif;
 }
 
-.App-header {
+#app-header {
   width: 100%;
   background-color: red;
+  position: relative;
   /* position: fixed;
   z-index: 1; */
 }
@@ -15,6 +16,9 @@ html {
   width: 80%;
   margin: 0 auto;
 }
+/* Mobile */ 
+
+
 #menu-option {
   margin: 0 auto;
   width: 14%;
@@ -40,7 +44,6 @@ html {
   border-radius: 8px;
 }
 
-
 #main-result {
   width:86%;
 }
@@ -55,5 +58,70 @@ html {
 }
 .footer {
   width: 80%;
-  margin: 0 auto;
+  margin: 4px auto;
+}
+
+.expand-button {
+  
+  height: 40px;
+  padding: 10px 16px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Tablet */ 
+@media screen and (min-width:740px) and (max-width:1023px) {
+  #menu-option {
+    display: none;
+  }
+  #main-result {
+    width: 100%;
+  }
+  #body {
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+  }
+  .app-contact {
+    width: 100%;
+  }
+  #product-filter {
+    margin-bottom: 8px;
+  }
+  .footer {
+    width: 95%;
+    margin: 8px auto;
+  }
+}
+
+/* Mobile */
+@media screen and (max-width:739px) {
+  #app-header {
+    width: 100%;
+  }
+  
+  .footer {
+    width: 100%;
+    margin: 4px auto;
+  }
+  #menu-option {
+    display: none;
+  }
+  #main-result {
+    width: 100%;
+    margin-top: 50px;
+  }
+  #body {
+    display: flex;
+    width: 95%;
+    margin: 0 auto;
+  }
+  .app-contact {
+    width: 100%;
+  }
+  #product-filter {
+    margin-bottom: 8px;
+  }
 }

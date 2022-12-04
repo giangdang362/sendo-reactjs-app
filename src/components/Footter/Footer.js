@@ -8,36 +8,44 @@ import imgdownload2 from './image-download-2.png'
 import imgdownload3 from './image-download-3.png'
 function Footer() {
     return (
-        <div>
+        <div className='wrap-footer'>
             <div className='main-footer'>
-                <a className='image-tag'>
-                    <img src={img1} alt='' />
-                    <div className='text-tag'>
-                        <span className='title'>Siêu nhiều hàng tốt</span>
-                        <span className='content'>Cần gì cũng có 26 ngành hàng & 10 triệu sản phẩm</span>
-                    </div>
-                </a>
-                <a className='image-tag'>
-                    <img src={img2} alt='' />
-                    <div className='text-tag'>
-                        <span className='title'>Siêu yên tâm</span>
-                        <span className='content'>Miễn phí đổi trả 48h</span>
-                    </div>
-                </a>
-                <a className='image-tag'>
-                    <img src={img3} alt='' />
-                    <div className='text-tag'>
-                        <span className='title'>Siêu tiện lợi</span>
-                        <span className='content'>Mang thế giới mua sắm của Sendo trong tầm tay bạn</span>
-                    </div>
-                </a>
-                <a className='image-tag'>
-                    <img src={img4} alt='' />
-                    <div className='text-tag'>
-                        <span className='title'>Siêu tiết kiệm</span>
-                        <span className='content'>Giá hợp lý, vừa túi tiền. Luôn có nhiều chương trình khuyến mãi</span>
-                    </div>
-                </a>
+                <div className='moreinfor-tag'>
+                    <a className='image-tag'>
+                        <img src={img1} alt='' />
+                        <div className='text-tag'>
+                            <span className='title'>Siêu nhiều hàng tốt</span>
+                            <span className='content'>Cần gì cũng có 26 ngành hàng & 10 triệu sản phẩm</span>
+                        </div>
+                    </a>
+                </div>
+                <div className='moreinfor-tag'>
+                    <a className='image-tag'>
+                        <img src={img2} alt='' />
+                        <div className='text-tag'>
+                            <span className='title'>Siêu yên tâm</span>
+                            <span className='content'>Miễn phí đổi trả 48h</span>
+                        </div>
+                    </a>
+                </div>
+                <div className='moreinfor-tag'>
+                    <a className='image-tag'>
+                        <img src={img3} alt='' />
+                        <div className='text-tag'>
+                            <span className='title'>Siêu tiện lợi</span>
+                            <span className='content'>Mang thế giới mua sắm của Sendo trong tầm tay bạn</span>
+                        </div>
+                    </a>
+                </div>
+                <div className='moreinfor-tag'>
+                    <a className='image-tag'>
+                        <img src={img4} alt='' />
+                        <div className='text-tag'>
+                            <span className='title'>Siêu tiết kiệm</span>
+                            <span className='content'>Giá hợp lý, vừa túi tiền. Luôn có nhiều chương trình khuyến mãi</span>
+                        </div>
+                    </a>
+                </div>
             </div>
             <div className='about'>
                 <div className='about-type'>
