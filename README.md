@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # sendo-clone
 # sendo-clone
 # sendo-demo
+
+### Start fake json-server
+# Run: json-server --watch data-product.json --port  8000
